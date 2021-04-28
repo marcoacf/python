@@ -8,7 +8,9 @@
   * [Simple Waterfall Chart / Cascade] https://plotly.com/python/waterfall-charts/
   * [Excel e-mail] https://pbpython.com/excel-email.html
   * [Geração automatizada de relatórios com a Papermill: Parte 1] https://pbpython.com/papermil-rclone-report-1.html
-  * [Geração automatizada de relatórios com a Papermill: Parte 2] 
+  * [Geração automatizada de relatórios com a Papermill: Parte 2] https://pbpython.com/papermil-rclone-report-2.html
+  * [Simulação de Monte Carlo] https://pbpython.com/monte-carlo.html
+  * [Quebras naturais nos dados com o algoritmo de Fisher-Jenks] https://pbpython.com/natural-breaks.html
   * 
 3. DataViz:
   * [Pandas DataFrame Visualization Tools] https://pbpython.com/dataframe-gui-overview.html
