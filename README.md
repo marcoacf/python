@@ -15,5 +15,6 @@
 3. DataViz:
   * [Pandas DataFrame Visualization Tools] https://pbpython.com/dataframe-gui-overview.html
   * [Dashboard Jupyter] https://pbpython.com/interactive-dashboards.html
+  * [Plotly’s Dash Framework] https://pbpython.com/plotly-dash-intro.html
   * [Pandas] https://pbpython.com/styling-pandas.html
 4. Imagens:
